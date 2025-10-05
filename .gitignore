@@ -1,0 +1,15 @@
+# Python cache
+backend/__pycache__/
+
+# Virtual Environment
+.venv/
+venv/
+
+# Raw and intermediate data folders that should not be in the repository
+backend/data/tiles/
+backend/data/processed/
+backend/data/outputs/
+
+# Ignore test files
+backend/test_frame.py
+backend/inspect_geo.py
