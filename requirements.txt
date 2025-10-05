@@ -1,0 +1,13 @@
+affine
+Flask
+Flask-Cors
+gdal
+gunicorn
+imageio
+matplotlib
+numpy
+pandas
+pyproj
+rasterio
+scikit-learn
+Shapely
